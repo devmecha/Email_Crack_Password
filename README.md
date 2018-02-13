@@ -37,7 +37,7 @@ N.B :
 * All those steps should be done in the script's directory
 * This script is not only for Gmail, but also other Email services :  Outlook, Mail.com, AOL ...Here were to find the servers names and their ports : https://www.arclab.com/en/kb/email/list-of-smtp-and-pop3-servers-mailserver-list.html
 So all you need is to chose Email Server and its Port.
-
+* There are more Password Lists in my full tutorial, make sure to check them.
 Full Tutorial 
 --------------
 
