@@ -21,7 +21,7 @@ _Usage_
 	3-b) For WINDOWS users :
 
 		1- You need to Download and Install Python ( 2.7 or 3.x). 
-		
+
 		2- Download and install cx_Freeze 4.3.4 and look for tutorials how to convert .py to .EXE or just skip to the next step.
 
 4 - On the same CMD Terminal type : 
@@ -41,8 +41,10 @@ N.B :
 * This script is not only for Gmail, but also other Email services :  Outlook, Mail.com, AOL ...Here were to find the servers names and their ports : https://www.arclab.com/en/kb/email/list-of-smtp-and-pop3-servers-mailserver-list.html
 So all you need is to chose Email Server and its Port.
 * There are more stronger Password Lists in my full tutorial, make sure to check them.
+
 Full Tutorial 
 --------------
 
 Still have quetions, read my full tutorial in : 
 
+http://www.hirobyl.blogspot.com/2018/02/python-how-to-crack-any-email-account.html
