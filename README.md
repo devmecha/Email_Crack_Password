@@ -18,8 +18,8 @@ _Usage_
 3 - Convert .py to .EXE
 	3-a) For LINUX users, Open CMD Terminal and type : chmod 755 Gmail_brute.py
 	3-b) For WINDOWS users :
-		1- You need to Download and Install Python( 2.7 or 3.x). Then download and install
-		2- cx_Freeze 4.3.4 and look for tutorials how to convert .py to .EXE or just skip to the next step.
+		1- You need to Download and Install Python ( 2.7 or 3.x). 
+		2- Download and install cx_Freeze 4.3.4 and look for tutorials how to convert .py to .EXE or just skip to the next step.
 
 4 - On the same CMD Terminal type : 
 	```bash
@@ -37,7 +37,7 @@ N.B :
 * All those steps should be done in the script's directory
 * This script is not only for Gmail, but also other Email services :  Outlook, Mail.com, AOL ...Here were to find the servers names and their ports : https://www.arclab.com/en/kb/email/list-of-smtp-and-pop3-servers-mailserver-list.html
 So all you need is to chose Email Server and its Port.
-* There are more Password Lists in my full tutorial, make sure to check them.
+* There are more stronger Password Lists in my full tutorial, make sure to check them.
 Full Tutorial 
 --------------
 
