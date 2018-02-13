@@ -17,8 +17,11 @@ _Usage_
 
 3 - Convert .py to .EXE
 	3-a) For LINUX users, Open CMD Terminal and type : chmod 755 Gmail_brute.py
+
 	3-b) For WINDOWS users :
+
 		1- You need to Download and Install Python ( 2.7 or 3.x). 
+		
 		2- Download and install cx_Freeze 4.3.4 and look for tutorials how to convert .py to .EXE or just skip to the next step.
 
 4 - On the same CMD Terminal type : 
