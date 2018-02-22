@@ -25,7 +25,7 @@ _Usage_
 		2- Download and install cx_Freeze 4.3.4 and look for tutorials how to convert .py to .EXE or just skip to the next step.
 
 4 - On the same CMD Terminal type : 
-	```bash
+	```
 	python Gmail_brute.py 
 	```
 	And hit Enter
